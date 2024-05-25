@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-
+# hi!
 # Import necessary modules for web requests, HTML parsing, data manipulation, and MySQL connection.
 import requests
 from bs4 import BeautifulSoup

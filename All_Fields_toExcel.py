@@ -193,7 +193,7 @@ if __name__ == "__main__":
     }
 
     # Configuration for the third website (cookshop)
-    url3 = "https://www.cookshop.gr/el/catalog/%CF%83%CE%BA%CE%B5%CF%85%CE%B7-%CE%BC%CE%B1%CE%B3%CE%B5%CE%B9%CF%81%CE%BA%CE%B7%CF%83-%CF%84%CE%B7%CE%B3%CE%B1%CE%BD%CE%B9%CE%B1"
+    url3 = "https://www.cookshop.gr/el/catalog/%CF%83%CE%BA%CE%B5%CF%85%CE%B7-%CE%BC%CE%B1%CE%B3%CE%B5%CE%B9%CF%81%CE%B9%CE%BA%CE%B7%CF%83-%CF%84%CE%B7%CE%B3%CE%B1%CE%BD%CE%B9%CE%B1?fbclid=IwZXh0bgNhZW0CMTAAAR2DIGFZexilB07-KwRSMuPWp_NcOymif4X85_aqCUqyevz6nb72V9-JiGk_aem_AVQPsqR5BIQ0gaO-1JPFc4EfJChrYciD_Lb-iNNXCkXeeY4bcBggV5ResWqTtIocVxfomGYw-R3KE7Ul_I9gCTsr"
     base_url3 = "https://www.cookshop.gr"
     
     config3 = {

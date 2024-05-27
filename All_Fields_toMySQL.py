@@ -11,7 +11,7 @@ import mysql.connector
 from mysql.connector import Error
 
 # Path to your ChromeDriver executable
-chromedriver_path = r'C:\Users\charisis\Downloads\chromedriver-win64\chromedriver-win64\chromedriver.exe'
+chromedriver_path = r'C:\Users\Γιωργος\Downloads\chromedriver-win64\chromedriver-win64\chromedriver.exe'
 
 def fetch_product_description_with_selenium(url, description_selector):
     # Set up the Selenium web driver
